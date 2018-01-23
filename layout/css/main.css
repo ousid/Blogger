@@ -1,0 +1,23 @@
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+/* POSTS STYLE */
+
+.jumbotron {
+  padding: 30px;
+  margin-top: 45px;
+  background: rgba(233, 236, 239, 0.48);
+}
+
+/* SIDE STYLE */
+
+.select:last-child {
+  display: none
+}
